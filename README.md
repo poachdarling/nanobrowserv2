@@ -1,2 +1,3 @@
 # nanobrowserv2
-Fork/copy of nanobrowser/nanobrowser
+
+Fork/copy of nanobrowser for development under poachdarling.

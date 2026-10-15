@@ -1,0 +1,3 @@
+Forked from nanobrowser/nanobrowser — initial copy.
+
+This repository was populated by Copilot on user request. See original: https://github.com/nanobrowser/nanobrowser
